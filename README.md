@@ -882,6 +882,20 @@ performance of any of your sites from across the globe.<br>
 </p>
 
 
+##### :black_small_square: Developer & Platform Tools Additions (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/cli/cli"><b>GitHub CLI</b></a> - official GitHub command-line tool.<br>
+&nbsp;&nbsp; <a href="https://github.com/direnv/direnv"><b>direnv</b></a> - load/unload environment variables based on current directory.<br>
+&nbsp;&nbsp; <a href="https://github.com/asdf-vm/asdf"><b>asdf</b></a> - extendable version manager for multiple languages.<br>
+&nbsp;&nbsp; <a href="https://github.com/jqlang/jq"><b>jq</b></a> - command-line JSON processor.<br>
+&nbsp;&nbsp; <a href="https://github.com/stedolan/jq"><b>jq (classic)</b></a> - widely used JSON processor.<br>
+&nbsp;&nbsp; <a href="https://github.com/mikefarah/yq"><b>yq</b></a> - YAML/JSON/XML processor.<br>
+&nbsp;&nbsp; <a href="https://github.com/sharkdp/fd"><b>fd</b></a> - simple, fast alternative to find.<br>
+&nbsp;&nbsp; <a href="https://github.com/BurntSushi/ripgrep"><b>ripgrep</b></a> - recursively search directories for a regex pattern.<br>
+</p>
+
+
 ##### :black_small_square: Shell/Command line
 
 <p>
