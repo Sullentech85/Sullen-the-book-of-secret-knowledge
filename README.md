@@ -869,6 +869,19 @@ performance of any of your sites from across the globe.<br>
 </p>
 
 
+##### :black_small_square: Networking & Connectivity Additions (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/cilium/cilium"><b>Cilium</b></a> - eBPF-based networking, security, and observability for Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://github.com/projectcalico/calico"><b>Calico</b></a> - networking and network security solution for containers.<br>
+&nbsp;&nbsp; <a href="https://github.com/metallb/metallb"><b>MetalLB</b></a> - bare-metal load-balancer for Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://github.com/traefik/traefik"><b>Traefik</b></a> - modern reverse proxy and load balancer.<br>
+&nbsp;&nbsp; <a href="https://github.com/nginxinc/kubernetes-ingress"><b>NGINX Ingress Controller</b></a> - ingress controller for Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://github.com/istio/istio"><b>Istio</b></a> - service mesh (already listed; reinforced here for networking context).<br>
+&nbsp;&nbsp; <a href="https://github.com/linkerd/linkerd2"><b>Linkerd</b></a> - ultralight service mesh.<br>
+</p>
+
+
 ##### :black_small_square: Shell/Command line
 
 <p>
