@@ -896,6 +896,17 @@ performance of any of your sites from across the globe.<br>
 </p>
 
 
+##### :black_small_square: Observability Extras (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/open-telemetry/opentelemetry-operator"><b>OpenTelemetry Operator</b></a> - Kubernetes operator for OpenTelemetry.<br>
+&nbsp;&nbsp; <a href="https://github.com/grafana/tempo"><b>Tempo</b></a> - high-scale distributed tracing backend.<br>
+&nbsp;&nbsp; <a href="https://github.com/grafana/mimir"><b>Mimir</b></a> - horizontally scalable Prometheus-compatible metrics.<br>
+&nbsp;&nbsp; <a href="https://github.com/prometheus-operator/prometheus-operator"><b>Prometheus Operator</b></a> - operator for Prometheus on Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://github.com/jaegertracing/jaeger-operator"><b>Jaeger Operator</b></a> - operator for Jaeger.<br>
+</p>
+
+
 ##### :black_small_square: Shell/Command line
 
 <p>
