@@ -832,6 +832,22 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/hjacobs/kubernetes-failure-stories"><b>kubernetes-failure-stories</b></a> - is a compilation of public failure/horror stories related to Kubernetes.<br>
 </p>
 
+##### :black_small_square: Modern / Cloud-Native Additions (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/helm/helm"><b>Helm</b></a> - the package manager for Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://k3s.io/"><b>k3s</b></a> - lightweight Kubernetes distribution.<br>
+&nbsp;&nbsp; <a href="https://github.com/k3s-io/k3s"><b>k3s GitHub</b></a> - upstream for the lightweight distribution.<br>
+&nbsp;&nbsp; <a href="https://github.com/containers/podman"><b>Podman</b></a> - daemonless container engine.<br>
+&nbsp;&nbsp; <a href="https://github.com/docker/compose"><b>Docker Compose</b></a> - define and run multi-container applications.<br>
+&nbsp;&nbsp; <a href="https://github.com/hashicorp/terraform"><b>Terraform</b></a> - infrastructure as code.<br>
+&nbsp;&nbsp; <a href="https://opentofu.org/"><b>OpenTofu</b></a> - open-source Terraform fork.<br>
+&nbsp;&nbsp; <a href="https://github.com/cilium/cilium"><b>Cilium</b></a> - eBPF-based networking, security, and observability.<br>
+&nbsp;&nbsp; <a href="https://github.com/prometheus/prometheus"><b>Prometheus</b></a> - monitoring and alerting.<br>
+&nbsp;&nbsp; <a href="https://grafana.com/"><b>Grafana</b></a> - observability and visualization.<br>
+</p>
+
+
 #### Manuals/Howtos/Tutorials &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Shell/Command line
