@@ -1791,7 +1791,37 @@ text :arrow_left: encoded
 
 #### Shell One-liners &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
-##### Table of Contents
+###
+## 6-Layer Learning Path (Companion Index)
+
+This index groups tools already in the Book into a coherent beginner-to-intermediate path.  
+It is meant to be used together with the companion coursework repo:  
+[Clouds Against Humanity Base](https://github.com/Sullentech85/Clouds-Against-Humanity-Base)
+
+### Layer 1 — Linux
+Core shell, permissions, processes, and basic system tools.  
+Start here if you are not yet comfortable on a Linux command line.
+
+### Layer 2 — Networking
+Packet capture, DNS, TCP, TLS, and traffic analysis.  
+Tools such as Wireshark/tshark, dig, and related network utilities live in the existing sections.
+
+### Layer 3 — The Web
+HTTP, sessions, cookies, browser developer tools, and web security fundamentals.  
+Web-related tool entries exist; ordered exercises live in the coursework companion.
+
+### Layer 4 — Guided Path
+External free structured paths (TryHackMe Pre-Security, Cybersecurity 101, or equivalents) before advanced cloud stacks.
+
+### Layer 5 — Own Lab
+Deliberately vulnerable local or private-path labs (e.g. Juice Shop) that you control, document, and destroy.
+
+### Layer 6 — Projects
+Small automation missions that turn one-liners and functions into working scripts and sample reports against systems you own.
+
+See the companion coursework repo for stage guides and mission stubs that point back into these sections.
+
+## Table of Contents
 
   * [terminal](#tool-terminal)
   * [busybox](#tool-busybox)
