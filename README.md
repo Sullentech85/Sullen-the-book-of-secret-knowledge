@@ -907,6 +907,19 @@ performance of any of your sites from across the globe.<br>
 </p>
 
 
+##### :black_small_square: Security Tools Additions (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/aquasecurity/trivy"><b>Trivy</b></a> - comprehensive vulnerability scanner (containers, IaC, etc.).<br>
+&nbsp;&nbsp; <a href="https://github.com/anchore/grype"><b>Grype</b></a> - vulnerability scanner for container images and filesystems.<br>
+&nbsp;&nbsp; <a href="https://github.com/anchore/syft"><b>Syft</b></a> - CLI tool and library for generating SBOMs.<br>
+&nbsp;&nbsp; <a href="https://github.com/falcosecurity/falco"><b>Falco</b></a> - runtime security monitoring.<br>
+&nbsp;&nbsp; <a href="https://github.com/open-policy-agent/opa"><b>OPA</b></a> - open policy agent for policy-as-code.<br>
+&nbsp;&nbsp; <a href="https://github.com/kyverno/kyverno"><b>Kyverno</b></a> - Kubernetes-native policy management.<br>
+&nbsp;&nbsp; <a href="https://github.com/aquasecurity/kube-bench"><b>kube-bench</b></a> - CIS Kubernetes benchmark checks.<br>
+</p>
+
+
 ##### :black_small_square: Shell/Command line
 
 <p>
