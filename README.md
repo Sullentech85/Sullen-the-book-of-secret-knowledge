@@ -920,6 +920,17 @@ performance of any of your sites from across the globe.<br>
 </p>
 
 
+##### :black_small_square: Cloud-Native Platform Extras (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/crossplane/crossplane"><b>Crossplane</b></a> - control plane for cloud-native infrastructure.<br>
+&nbsp;&nbsp; <a href="https://github.com/fluxcd/flux2"><b>Flux</b></a> - GitOps toolkit for Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://github.com/argoproj/argo-cd"><b>Argo CD</b></a> - declarative GitOps continuous delivery.<br>
+&nbsp;&nbsp; <a href="https://github.com/k3s-io/k3s"><b>k3s</b></a> - lightweight Kubernetes (reinforced).<br>
+&nbsp;&nbsp; <a href="https://github.com/rancher/rancher"><b>Rancher</b></a> - multi-cluster Kubernetes management.<br>
+</p>
+
+
 ##### :black_small_square: Shell/Command line
 
 <p>
