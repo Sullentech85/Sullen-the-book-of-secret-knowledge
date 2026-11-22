@@ -239,7 +239,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br>
 &nbsp;&nbsp; <a href="https://github.com/dhamaniasad/HeadlessBrowsers"><b>HeadlessBrowsers</b></a> - a list of (almost) all headless web browsers in existence.<br>
 &nbsp;&nbsp; <a href="https://httpd.apache.org/docs/2.4/programs/ab.html"><b>ab</b></a> - is a single-threaded command line tool for measuring the performance of HTTP web servers.<br>
-&nbsp;&nbsp; <a href="https://www.joedog.org/siege-home/"><b>siege</b></a> - is an http load testing and benchmarking utility.<br>
+&nbsp;&nbsp; <a href="https://www.joedog.org/siege-home/"><b>siege</b></a> * - is an http load testing and benchmarking utility.<br>
 &nbsp;&nbsp; <a href="https://github.com/wg/wrk"><b>wrk</b></a> - is a modern HTTP benchmarking tool capable of generating significant load.<br>
 &nbsp;&nbsp; <a href="https://github.com/giltene/wrk2"><b>wrk2</b></a> - is a constant throughput, correct latency recording variant of wrk.<br>
 &nbsp;&nbsp; <a href="https://github.com/tsenart/vegeta"><b>vegeta</b></a> - is a constant throughput, correct latency recording variant of wrk.<br>
@@ -571,7 +571,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://explainshell.com/"><b>explainshell</b></a> - get interactive help texts for shell commands.<br>
 &nbsp;&nbsp; <a href="https://jsbin.com/?html,output"><b>jsbin</b></a> - live pastebin for HTML, CSS & JavaScript, and more.<br>
 &nbsp;&nbsp; <a href="https://codesandbox.io/"><b>CodeSandbox</b></a> - online code editor for web application development.<br>
-&nbsp;&nbsp; <a href="http://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> - test your PHP code with this code tester.<br>
+&nbsp;&nbsp; <a href="http://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> * - test your PHP code with this code tester.<br>
 &nbsp;&nbsp; <a href="https://www.repl.it/"><b>Repl.it</b></a> - an instant IDE to learn, build, collaborate, and host all in one place.<br>
 &nbsp;&nbsp; <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br>
 &nbsp;&nbsp; <a href="https://github.com/hadolint/hadolint"><b>Haskell Dockerfile Linter</b></a> - a smarter Dockerfile linter that helps you build best practice Docker images.<br>
@@ -602,7 +602,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://fofa.so/"><b>FOFA</b></a> - is a cyberspace search engine.<br>
 &nbsp;&nbsp; <a href="https://www.onyphe.io/"><b>onyphe</b></a> - is a search engine for open-source and cyber threat intelligence data collected.<br>
 &nbsp;&nbsp; <a href="https://intelx.io/"><b>IntelligenceX</b></a> - is a search engine and data archive.<br>
-&nbsp;&nbsp; <a href="https://app.binaryedge.io/"><b>binaryedge</b></a> - it scan the entire internet space and create real-time threat intelligence streams and reports.<br>
+&nbsp;&nbsp; <a href="https://app.binaryedge.io/"><b>binaryedge</b></a> * - it scan the entire internet space and create real-time threat intelligence streams and reports.<br>
 &nbsp;&nbsp; <a href="https://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br>
 &nbsp;&nbsp; <a href="https://wigle.net/"><b>wigle</b></a> - is a submission-based catalog of wireless networks. All the networks. Found by Everyone.<br>
 &nbsp;&nbsp; <a href="https://publicwww.com/"><b>PublicWWW</b></a> - find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.<br>
@@ -624,7 +624,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://search.weleakinfo.com/"><b>We Leak Info</b></a> - to help everyday individuals secure their online life, avoiding getting hacked.<br>
 &nbsp;&nbsp; <a href="https://pipl.com/"><b>pipl</b></a> - is the place to find the person behind the email address, social username or phone number.<br>
 &nbsp;&nbsp; <a href="https://abuse.ch/"><b>abuse.ch</b></a> - is operated by a random swiss guy fighting malware for non-profit.<br>
-&nbsp;&nbsp; <a href="http://malc0de.com/database/"><b>malc0de</b></a> - malware search engine.<br>
+&nbsp;&nbsp; <a href="http://malc0de.com/database/"><b>malc0de</b></a> * - malware search engine.<br>
 &nbsp;&nbsp; <a href="https://cybercrime-tracker.net/index.php"><b>Cybercrime Tracker</b></a> - monitors and tracks various malware families that are used to perpetrate cyber crimes.<br>
 &nbsp;&nbsp; <a href="https://github.com/eth0izzle/shhgit/"><b>shhgit</b></a> - find GitHub secrets in real time.<br>
 &nbsp;&nbsp; <a href="https://searchcode.com/"><b>searchcode</b></a> - helping you find real world examples of functions, API's and libraries.<br>
@@ -928,7 +928,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices"><b>SSL Research</b></a> - SSL and TLS Deployment Best Practices by SSL Labs.<br>
 &nbsp;&nbsp; <a href="http://selinuxgame.org/index.html"><b>SELinux Game</b></a> - learn SELinux by doing. Solve Puzzles, show skillz.<br>
 &nbsp;&nbsp; <a href="https://smallstep.com/blog/everything-pki.html"><b>Certificates and PKI</b></a> - everything you should know about certificates and PKI but are too afraid to ask.<br>
-&nbsp;&nbsp; <a href="https://appsecco.com/books/subdomain-enumeration/"><b>The Art of Subdomain Enumeration</b></a> - a reference for subdomain enumeration techniques.<br>
+&nbsp;&nbsp; <a href="https://appsecco.com/books/subdomain-enumeration/"><b>The Art of Subdomain Enumeration</b></a> * - a reference for subdomain enumeration techniques.<br>
 &nbsp;&nbsp; <a href="https://lifehacker.com/the-comprehensive-guide-to-quitting-google-1830001964"><b>Quitting Google</b></a> - the comprehensive guide to quitting Google.<br>
 </p>
 
@@ -978,7 +978,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Other
 
 <p>
-&nbsp;&nbsp; <a href="https://bitvijays.github.io/LFC-VulnerableMachines.html"><b>CTF Series : Vulnerable Machines</b></a> - the steps below could be followed to find vulnerabilities and exploits.<br>
+&nbsp;&nbsp; <a href="https://bitvijays.github.io/LFC-VulnerableMachines.html"><b>CTF Series : Vulnerable Machines</b></a> * - the steps below could be followed to find vulnerabilities and exploits.<br>
 &nbsp;&nbsp; <a href="https://github.com/manoelt/50M_CTF_Writeup"><b>50M_CTF_Writeup</b></a> - $50 million CTF from Hackerone - writeup.<br>
 &nbsp;&nbsp; <a href="https://github.com/j00ru/ctf-tasks"><b>ctf-tasks</b></a> - an archive of low-level CTF challenges developed over the years.<br>
 &nbsp;&nbsp; <a href="https://hshrzd.wordpress.com/how-to-start/"><b>How to start RE/malware analysis?</b></a> - collection of some hints and useful links for the beginners.<br>
@@ -1149,7 +1149,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 &nbsp;&nbsp; <a href="https://nakedsecurity.sophos.com/"><b>Sophos</b></a> - threat news room, giving you news, opinion, advice and research on computer security issues.<br>
 &nbsp;&nbsp; <a href="https://www.tripwire.com/state-of-security/"><b>Tripwire State of Security</b></a> - blog featuring the latest news, trends and insights on current security issues.<br>
 &nbsp;&nbsp; <a href="https://blog.malwarebytes.com/"><b>Malwarebytes Labs Blog</b></a> - security blog aims to provide insider news about cybersecurity.<br>
-&nbsp;&nbsp; <a href="https://www.trustedsec.com/category/articles/"><b>TrustedSec</b></a> - latest news, and trends about cybersecurity.<br>
+&nbsp;&nbsp; <a href="https://www.trustedsec.com/category/articles/"><b>TrustedSec</b></a> * - latest news, and trends about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://portswigger.net/blog"><b>PortSwigger Web Security Blog</b></a> - about web app security vulns and top tips from our team of web security.<br>
 &nbsp;&nbsp; <a href="https://www.alienvault.com/blogs"><b>AT&T Cybersecurity blog</b></a> - news on emerging threats and practical advice to simplify threat detection.<br>
 &nbsp;&nbsp; <a href="https://thycotic.com/company/blog/"><b>Thycotic</b></a> - where CISOs and IT Admins come to learn about industry trends, IT security, and more.<br>
@@ -1163,7 +1163,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 &nbsp;&nbsp; <a href="https://www.tenable.com/podcast"><b>Tenable Podcast</b></a> - conversations and interviews related to Cyber Exposure, and more.<br>
 &nbsp;&nbsp; <a href="https://podcasts.apple.com/gb/podcast/cybercrime-investigations/id1428801405"><b>
 Cybercrime Investigations</b></a> - podcast by Geoff White about cybercrimes.<br>
-&nbsp;&nbsp; <a href="https://themanyhats.club/tag/episodes/"><b>The many hats club</b></a> - featuring stories from a wide range of Infosec people (Whitehat, Greyhat and Blackhat).<br>
+&nbsp;&nbsp; <a href="https://themanyhats.club/tag/episodes/"><b>The many hats club</b></a> * - featuring stories from a wide range of Infosec people (Whitehat, Greyhat and Blackhat).<br>
 &nbsp;&nbsp; <a href="https://darknetdiaries.com/"><b>Darknet Diaries</b></a> - true stories from the dark side of the Internet.<br>
 &nbsp;&nbsp; <a href="https://www.youtube.com/playlist?list=PL423I_gHbWUXah3dmt_q_XNp0NlGAKjis"><b>OSINTCurious Webcasts</b></a> - is the investigative curiosity that helps people be successful in OSINT.<br>
 &nbsp;&nbsp; <a href="https://www.youtube.com/user/SecurityWeeklyTV"><b>Security Weekly</b></a> - the latest information security and hacking news.<br>
@@ -1209,7 +1209,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/bugcrowd"><b>@bugcrowd</b></a> - trusted by more of the Fortune 500 than any other crowdsourced security platform.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/Malwarebytes"><b>@Malwarebytes</b></a> - most trusted security company. Unmatched threat visibility.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/sansforensics"><b>@sansforensics</b></a> - the world's leading Digital Forensics and Incident Response provider.<br>
-&nbsp;&nbsp; <a href="https://twitter.com/attcyber"><b>@attcyber</b></a> - AT&T Cybersecurity’s Edge-to-Edge technologies provide threat intelligence, and more.<br>
+&nbsp;&nbsp; <a href="https://twitter.com/attcyber"><b>@attcyber</b></a> * - AT&T Cybersecurity’s Edge-to-Edge technologies provide threat intelligence, and more.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/TheManyHatsClub"><b>@TheManyHatsClub</b></a> - an information security focused podcast and group of individuals from all walks of life.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/hedgehogsec"><b>@hedgehogsec</b></a> - Hedgehog Cyber. Gibraltar and Manchester's top boutique information security firm.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/NCSC"><b>@NCSC</b></a> - the National Cyber Security Centre. Helping to make the UK the safest place to live and work online.<br>
@@ -1233,7 +1233,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 ##### :black_small_square: Pentesters arsenal tools
 
 <p>
-&nbsp;&nbsp; <a href="http://www.syhunt.com/sandcat/"><b>Sandcat Browser</b></a> - a penetration-oriented browser with plenty of advanced functionality already built in.<br>
+&nbsp;&nbsp; <a href="http://www.syhunt.com/sandcat/"><b>Sandcat Browser</b></a> * - a penetration-oriented browser with plenty of advanced functionality already built in.<br>
 &nbsp;&nbsp; <a href="https://www.metasploit.com/"><b>Metasploit</b></a> - tool and framework for pentesting system, web and many more.<br>
 &nbsp;&nbsp; <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
@@ -1250,7 +1250,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/future-architect/vuls"><b>vuls</b></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br>
 &nbsp;&nbsp; <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a> - is a general purpose network security scanner with an extensible plugin system.<br>
 &nbsp;&nbsp; <a href="https://github.com/michenriksen/aquatone"><b>aquatone</b></a> - a tool for domain flyovers.<br>
-&nbsp;&nbsp; <a href="https://github.com/GitHackTools/BillCipher"><b>BillCipher</b></a> - information gathering tool for a website or IP address.<br>
+&nbsp;&nbsp; <a href="https://github.com/GitHackTools/BillCipher"><b>BillCipher</b></a> * - information gathering tool for a website or IP address.<br>
 &nbsp;&nbsp; <a href="https://github.com/Ekultek/WhatWaf"><b>WhatWaf</b></a> - detect and bypass web application firewalls and protection systems.<br>
 &nbsp;&nbsp; <a href="https://github.com/s0md3v/Corsy"><b>Corsy</b></a> - CORS misconfiguration scanner.<br>
 &nbsp;&nbsp; <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br>
@@ -1336,7 +1336,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://gtfobins.github.io/"><b>GTFOBins</b></a> - list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.<br>
 &nbsp;&nbsp; <a href="https://guif.re/"><b>Guifre Ruiz Notes</b></a> - collection of security, system, network and pentest cheatsheets.<br>
 &nbsp;&nbsp; <a href="http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html"><b>SSRF Tips</b></a> - a collection of SSRF Tips.<br>
-&nbsp;&nbsp; <a href="http://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> - great archive of CTFs.<br>
+&nbsp;&nbsp; <a href="http://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> * - great archive of CTFs.<br>
 &nbsp;&nbsp; <a href="https://github.com/bl4de/ctf"><b>ctf</b></a> - CTF (Capture The Flag) writeups, code snippets, notes, scripts.<br>
 &nbsp;&nbsp; <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>My-CTF-Web-Challenges</b></a> - collection of CTF Web challenges.<br>
 &nbsp;&nbsp; <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
@@ -1364,8 +1364,8 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://hashes.org/"><b>Hashes.org</b></a> - is a free online hash resolving service incorporating many unparalleled techniques.<br>
 &nbsp;&nbsp; <a href="https://github.com/danielmiessler/SecLists"><b>SecLists</b></a> - collection of multiple types of lists used during security assessments, collected in one place.<br>
 &nbsp;&nbsp; <a href="https://github.com/berzerk0/Probable-Wordlists"><b>Probable-Wordlists</b></a> - sorted by probability originally created for password generation and testing.<br>
-&nbsp;&nbsp; <a href="https://wiki.skullsecurity.org/index.php?title=Passwords"><b>skullsecurity passwords</b></a> - password dictionaries and leaked passwords repository.<br>
-&nbsp;&nbsp; <a href="https://bezpieka.org/polski-slownik-premium-polish-wordlist"><b>Polish PREMIUM Dictionary</b></a> - official dictionary created by the team on the forum bezpieka.org.<b>*</b> <sup><a href="https://sourceforge.net/projects/kali-linux/files/Wordlist/">1</sup><br>
+&nbsp;&nbsp; <a href="https://wiki.skullsecurity.org/index.php?title=Passwords"><b>skullsecurity passwords</b></a> * - password dictionaries and leaked passwords repository.<br>
+&nbsp;&nbsp; <a href="https://bezpieka.org/polski-slownik-premium-polish-wordlist"><b>Polish PREMIUM Dictionary</b></a> * - official dictionary created by the team on the forum bezpieka.org.<b>*</b> <sup><a href="https://sourceforge.net/projects/kali-linux/files/Wordlist/">1</sup><br>
 &nbsp;&nbsp; <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a> - wordlists for creating statistically likely username lists.<br>
 </p>
 
@@ -1415,7 +1415,7 @@ AWS deployment tool.<br>
 <p>
 &nbsp;&nbsp; <a href="https://www.offensive-security.com/"><b>Offensive Security</b></a> - true performance-based penetration testing training for over a decade.<br>
 &nbsp;&nbsp; <a href="https://www.hackthebox.eu/"><b>Hack The Box</b></a> - online platform allowing you to test your penetration testing skills.<br>
-&nbsp;&nbsp; <a href="https://www.hacking-lab.com/index.html"><b>Hacking-Lab</b></a> - online ethical hacking, computer network and security challenge platform.<br>
+&nbsp;&nbsp; <a href="https://www.hacking-lab.com/index.html"><b>Hacking-Lab</b></a> * - online ethical hacking, computer network and security challenge platform.<br>
 &nbsp;&nbsp; <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges.<br>
 &nbsp;&nbsp; <a href="https://pwnable.tw/"><b>Pwnable.tw</b></a> - is a wargame site for hackers to test and expand their binary exploiting skills.<br>
 &nbsp;&nbsp; <a href="https://picoctf.com/"><b>picoCTF</b></a> - is a free computer security game targeted at middle and high school students.<br>
@@ -1443,7 +1443,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp; <a href="https://w3challs.com/"><b>W3Challs</b></a> - is a penetration testing training platform, which offers various computer challenges.<br>
 &nbsp;&nbsp; <a href="https://ringzer0ctf.com/challenges"><b>RingZer0 CTF</b></a> - offers you tons of challenges designed to test and improve your hacking skills.<br>
 &nbsp;&nbsp; <a href="https://hack.me/"><b>Hack.me</b></a> - a platform where you can build, host and share vulnerable web apps for educational purposes.<br>
-&nbsp;&nbsp; <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> - discover how hacks, dumps and defacements are performed and secure your website.<br>
+&nbsp;&nbsp; <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> * - discover how hacks, dumps and defacements are performed and secure your website.<br>
 &nbsp;&nbsp; <a href="https://www.enigmagroup.org/#"><b>Enigma Group WebApp Training</b></a> - these challenges cover the exploits listed in the OWASP Top 10 Project.<br>
 &nbsp;&nbsp; <a href="https://challenges.re/"><b>Reverse Engineering Challenges</b></a> - challenges, exercises, problems and tasks - by level, by type, and more.<br>
 &nbsp;&nbsp; <a href="https://0x00sec.org/"><b>0x00sec</b></a> - the home of the Hacker - Malware, Reverse Engineering, and Computer Science.<br>
