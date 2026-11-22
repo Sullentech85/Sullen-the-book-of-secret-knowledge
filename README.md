@@ -23,6 +23,11 @@
 
 ****
 
+
+<p align="center">
+  Companion coursework environment: <a href="https://github.com/Sullentech85/Clouds-Against-Humanity-Base"><b>Clouds Against Humanity Base</b></a> — ordered, stage-based teaching path that uses this reference library.
+</p>
+
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
 This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
