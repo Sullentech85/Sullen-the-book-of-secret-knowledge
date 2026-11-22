@@ -953,6 +953,18 @@ performance of any of your sites from across the globe.<br>
 </p>
 
 
+##### :black_small_square: AI & ML Tooling Additions (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/ollama/ollama"><b>Ollama</b></a> - run large language models locally.<br>
+&nbsp;&nbsp; <a href="https://github.com/langchain-ai/langchain"><b>LangChain</b></a> - framework for building LLM applications.<br>
+&nbsp;&nbsp; <a href="https://github.com/huggingface/transformers"><b>Transformers</b></a> - state-of-the-art machine learning models.<br>
+&nbsp;&nbsp; <a href="https://github.com/vllm-project/vllm"><b>vLLM</b></a> - high-throughput LLM serving engine.<br>
+&nbsp;&nbsp; <a href="https://github.com/bentoml/BentoML"><b>BentoML</b></a> - model serving and deployment framework.<br>
+&nbsp;&nbsp; <a href="https://github.com/mlflow/mlflow"><b>MLflow</b></a> - machine learning lifecycle platform.<br>
+</p>
+
+
 ##### :black_small_square: Shell/Command line
 
 <p>
