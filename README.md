@@ -855,6 +855,20 @@ performance of any of your sites from across the globe.<br>
 
 #### Manuals/Howtos/Tutorials &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
+##### :black_small_square: Security & Observability Additions (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/aquasecurity/trivy"><b>Trivy</b></a> - comprehensive security scanner for containers, IaC, and more.<br>
+&nbsp;&nbsp; <a href="https://github.com/falcosecurity/falco"><b>Falco</b></a> - runtime security monitoring with eBPF.<br>
+&nbsp;&nbsp; <a href="https://github.com/open-telemetry/opentelemetry-collector"><b>OpenTelemetry Collector</b></a> - vendor-neutral telemetry collection.<br>
+&nbsp;&nbsp; <a href="https://github.com/grafana/loki"><b>Loki</b></a> - log aggregation system.<br>
+&nbsp;&nbsp; <a href="https://github.com/jaegertracing/jaeger"><b>Jaeger</b></a> - distributed tracing.<br>
+&nbsp;&nbsp; <a href="https://github.com/hashicorp/vault"><b>Vault</b></a> - secrets management.<br>
+&nbsp;&nbsp; <a href="https://github.com/cert-manager/cert-manager"><b>cert-manager</b></a> - automated TLS certificate management for Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://github.com/istio/istio"><b>Istio</b></a> - service mesh.<br>
+</p>
+
+
 ##### :black_small_square: Shell/Command line
 
 <p>
