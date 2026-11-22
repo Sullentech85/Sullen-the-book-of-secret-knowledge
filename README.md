@@ -931,6 +931,17 @@ performance of any of your sites from across the globe.<br>
 </p>
 
 
+##### :black_small_square: Data & Storage Additions (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/minio/minio"><b>MinIO</b></a> - high-performance object storage, S3 compatible.<br>
+&nbsp;&nbsp; <a href="https://github.com/rook/rook"><b>Rook</b></a> - cloud-native storage orchestrator for Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://github.com/longhorn/longhorn"><b>Longhorn</b></a> - distributed block storage for Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://github.com/vmware-tanzu/velero"><b>Velero</b></a> - backup and restore for Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://github.com/openebs/openebs"><b>OpenEBS</b></a> - containerized storage for Kubernetes.<br>
+</p>
+
+
 ##### :black_small_square: Shell/Command line
 
 <p>
