@@ -942,6 +942,17 @@ performance of any of your sites from across the globe.<br>
 </p>
 
 
+##### :black_small_square: GitOps & Platform Extras (2026)
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/argoproj/argo-workflows"><b>Argo Workflows</b></a> - container-native workflow engine.<br>
+&nbsp;&nbsp; <a href="https://github.com/tektoncd/pipeline"><b>Tekton</b></a> - cloud-native CI/CD pipelines.<br>
+&nbsp;&nbsp; <a href="https://github.com/backstage/backstage"><b>Backstage</b></a> - open platform for building developer portals.<br>
+&nbsp;&nbsp; <a href="https://github.com/argoproj/argo-events"><b>Argo Events</b></a> - event-driven workflow automation.<br>
+&nbsp;&nbsp; <a href="https://github.com/fluxcd/source-controller"><b>Flux Source Controller</b></a> - Git/Helm/OCI source reconciliation.<br>
+</p>
+
+
 ##### :black_small_square: Shell/Command line
 
 <p>
